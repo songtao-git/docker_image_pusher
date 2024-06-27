@@ -5,3 +5,9 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:8.0.37
+victoriametrics/victoria-metrics:v1.93.15
+bitnami/kafka:3.6.2
+canal/canal-admin:v1.1.7
+canal/canal-server:v1.1.7
+grafana/grafana:10.4.5
+python:3.9.19
