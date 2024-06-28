@@ -11,3 +11,4 @@ canal/canal-admin:v1.1.7
 canal/canal-server:v1.1.7
 grafana/grafana:10.4.5
 python:3.9.19
+zookeeper:3.8.4
