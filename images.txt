@@ -12,5 +12,4 @@
 #grafana/grafana:10.4.5
 #python:3.9.19
 #zookeeper:3.8.4
-klo2k/nexus3:latest
---platform=linux/arm64 st97/nexus3
+--platform=linux/arm64 klo2k/nexus3:latest
