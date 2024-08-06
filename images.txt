@@ -15,4 +15,5 @@
 #--platform=linux/arm64 klo2k/nexus3:latest
 #xuxueli/xxl-job-admin:2.4.1
 #python:3.9.19-slim
-redis:6.2.14
+#redis:6.2.14
+logstash:8.14.3
