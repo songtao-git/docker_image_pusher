@@ -20,4 +20,5 @@
 #apache/superset:4.0.2
 #fluentd:v1.16.2-1.1
 #fluentd:v1.16.2-debian-1.1
-docker.elastic.co/logstash/logstash-oss:8.14.3-amd64
+#docker.elastic.co/logstash/logstash-oss:8.14.3-amd64
+osixia/phpldapadmin:0.9.0
