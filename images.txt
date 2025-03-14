@@ -28,4 +28,5 @@
 #postgres:16.6
 #louislam/uptime-kuma:1.23.16
 #ghcr.io/open-webui/open-webui:0.5.12
-chat2db/chat2db:0.3.7
+#chat2db/chat2db:0.3.7
+riscv64/python:3.10-alpine
