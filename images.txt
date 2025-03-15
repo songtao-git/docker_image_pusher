@@ -29,5 +29,4 @@
 #louislam/uptime-kuma:1.23.16
 #ghcr.io/open-webui/open-webui:0.5.12
 #chat2db/chat2db:0.3.7
---platform=linux/riscv64 riscv64/3.9.19-alpine
-
+--platform=linux/riscv64 riscv64/python:3.9-alpine
