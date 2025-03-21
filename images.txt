@@ -35,4 +35,4 @@
 #--platform=linux/riscv64 snowdreamtech/node:20
 #--platform=linux/riscv64 gists/mariadb:11.4.5
 #--platform=linux/riscv64 snowdreamtech/openjdk:21
---platform=linux/riscv64 k8s.gcr.io/kube-apiserver:v1.31.7
+--platform=linux/riscv64 k8s.gcr.io/kube-apiserver:v1.31.6
