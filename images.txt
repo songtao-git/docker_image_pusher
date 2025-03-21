@@ -56,4 +56,5 @@
 #--platform=linux/riscv64 francescollinks/etcd:3.5.13-0
 #--platform=linux/riscv64 francescollinks/k8s-network-tools:3.18
 
---platform=linux/riscv64 ghcr.io/flannel-io/flannel:v0.26.5
+#--platform=linux/riscv64 ghcr.io/flannel-io/flannel:v0.26.5
+--platform=linux/riscv64 ghcr.io/flannel-io/flannel-cni-plugin:v1.6.2-flannel1
