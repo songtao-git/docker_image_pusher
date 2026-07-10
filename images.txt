@@ -28,35 +28,5 @@
 #postgres:16.6
 #louislam/uptime-kuma:1.23.16
 #ghcr.io/open-webui/open-webui:0.5.12
-#chat2db/chat2db:0.3.7
-#--platform=linux/riscv64 riscv64/python:3.8-alpine
-#--platform=linux/riscv64 riscv64/nginx:1.27-alpine-perl
-#--platform=linux/riscv64 riscv64/golang:tip-alpine3.20
-#--platform=linux/riscv64 snowdreamtech/node:20
-#--platform=linux/riscv64 gists/mariadb:11.4.5
-#--platform=linux/riscv64 snowdreamtech/openjdk:21
-
-#--platform=linux/riscv64 eswincomputing/kube-apiserver:v1.29.0-rvcsw240318
-#--platform=linux/riscv64 eswincomputing/kube-scheduler:v1.29.0-rvcsw240318
-#--platform=linux/riscv64 eswincomputing/etcd:3.5.10-0
-#--platform=linux/riscv64 eswincomputing/dashboard:v2.7.0
-#--platform=linux/riscv64 eswincomputing/metrics-scraper:v1.0.9
-#--platform=linux/riscv64 eswincomputing/kube-ovn:v1.13.0
-#--platform=linux/riscv64 eswincomputing/go-runner:v2.3.1-go1.21.6-bookworm.0
-#--platform=linux/riscv64 eswincomputing/coredns:v1.11.1
-#--platform=linux/riscv64 eswincomputing/pause:3.9
-#--platform=linux/riscv64 eswincomputing/kube-controller-manager:v1.29.0-rvcsw240318
-#--platform=linux/riscv64 eswincomputing/kube-scheduler:v1.29.0-rvcsw240318
-#--platform=linux/riscv64 eswincomputing/kube-proxy:v1.29.0-rvcsw240318
-
-#--platform=linux/riscv64 francescollinks/kube-scheduler:v1.30.0
-#--platform=linux/riscv64 francescollinks/kube-apiserver:v1.30.0
-#--platform=linux/riscv64 francescollinks/kube-controller-manager:v1.30.0
-#--platform=linux/riscv64 francescollinks/kube-proxy:v1.30.0
-#--platform=linux/riscv64 francescollinks/etcd:3.5.13-0
-#--platform=linux/riscv64 francescollinks/k8s-network-tools:3.18
-
-#--platform=linux/riscv64 ghcr.io/flannel-io/flannel:v0.26.5
-#--platform=linux/riscv64 ghcr.io/flannel-io/flannel-cni-plugin:v1.6.2-flannel1
-#--platform=linux/arm64 ghcr.io/open-webui/open-webui:main
-litellm/litellm:v1.74.7-stable.patch.2
+#litellm/litellm:v1.74.7-stable.patch.2
+ghcr.io/openwebui/open-webui:0.10.2
