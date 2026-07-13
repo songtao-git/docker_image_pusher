@@ -29,4 +29,5 @@
 #louislam/uptime-kuma:1.23.16
 #ghcr.io/open-webui/open-webui:0.5.12
 #litellm/litellm:v1.74.7-stable.patch.2
-openwebui/open-webui:0.10.2
+#openwebui/open-webui:0.10.2
+lmsysorg/sglang:dev-glm52-nvfp4
