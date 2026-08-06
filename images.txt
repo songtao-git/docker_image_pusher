@@ -33,9 +33,9 @@
 #lmsysorg/sglang:dev-glm52-nvfp4
 #ghcr.io/yc-software/qm/core@sha256:bee03e7f22719dfe76ea2c83bb65db2bdefd55b714eae4014007033800bdb5ab
 
-onyxdotapp/onyx-backend:v4.5.3
-onyxdotapp/onyx-web-server:v4.5.3
-onyxdotapp/onyx-model-server:v4.5.3
-onyxdotapp/code-interpreter:v4.5.3
+#onyxdotapp/onyx-backend:v4.5.3
+#onyxdotapp/onyx-web-server:v4.5.3
+#onyxdotapp/onyx-model-server:v4.5.3
+onyxdotapp/code-interpreter:0.4.4
 opensearchproject/opensearch:3.6.0
 redis:7.4-alpine
