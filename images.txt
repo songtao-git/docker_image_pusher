@@ -39,8 +39,9 @@
 #onyxdotapp/code-interpreter:0.4.4
 #opensearchproject/opensearch:3.6.0
 #redis:7.4-alpine
-postgres:16.14
-redis/redis-stack-server:7.4.0-v8
+#postgres:16.14
+#redis/redis-stack-server:7.4.0-v8
+sonatype/nexus3:3.95.2
 #nginx:1.25.5-alpine
 #minio/minio:RELEASE.2025-07-23T15-54-02Z-cpuv1
 
