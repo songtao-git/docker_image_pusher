@@ -41,7 +41,7 @@
 #redis:7.4-alpine
 #postgres:16.14
 #redis/redis-stack-server:7.4.0-v8
-sonatype/nexus3:3.95.2
+#sonatype/nexus3:3.95.2
 #nginx:1.25.5-alpine
 #minio/minio:RELEASE.2025-07-23T15-54-02Z-cpuv1
-
+lmsysorg/sglang:nightly-dev-20260818-c0b6474b
