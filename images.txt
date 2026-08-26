@@ -45,4 +45,5 @@
 #nginx:1.25.5-alpine
 #minio/minio:RELEASE.2025-07-23T15-54-02Z-cpuv1
 #lmsysorg/sglang:v0.5.18
-vllm/vllm-openai:glm52
+#vllm/vllm-openai:glm52
+onyxdotapp/onyx-model-server:v4.6.1
