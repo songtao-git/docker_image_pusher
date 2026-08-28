@@ -33,10 +33,12 @@
 #lmsysorg/sglang:dev-glm52-nvfp4
 #ghcr.io/yc-software/qm/core@sha256:bee03e7f22719dfe76ea2c83bb65db2bdefd55b714eae4014007033800bdb5ab
 
-#onyxdotapp/onyx-backend:v4.5.3
-#onyxdotapp/onyx-web-server:v4.5.3
-#onyxdotapp/onyx-model-server:v4.5.3
-#onyxdotapp/code-interpreter:0.4.4
+onyxdotapp/onyx-backend:v4.6.4
+onyxdotapp/onyx-web-server:v4.6.4
+onyxdotapp/onyx-model-server:v4.6.4
+onyxdotapp/code-interpreter:0.4.6
+onyxdotapp/python-executor-sci:0.4.5
+
 #opensearchproject/opensearch:3.6.0
 #redis:7.4-alpine
 #postgres:16.14
@@ -45,7 +47,7 @@
 #nginx:1.25.5-alpine
 #minio/minio:RELEASE.2025-07-23T15-54-02Z-cpuv1
 #lmsysorg/sglang:v0.5.18
-lmsysorg/sglang:glm-5.3-flash
-lmsysorg/sglang:qwen38flashnext
+#lmsysorg/sglang:glm-5.3-flash
+#lmsysorg/sglang:qwen38flashnext
 #vllm/vllm-openai:glm52
 #onyxdotapp/onyx-model-server:v4.6.1
