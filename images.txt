@@ -35,9 +35,9 @@
 
 #onyxdotapp/onyx-backend:v4.6.4
 #onyxdotapp/onyx-web-server:v4.6.4
-#onyxdotapp/onyx-model-server:v4.6.4
+onyxdotapp/onyx-model-server:v4.6.4
 #onyxdotapp/code-interpreter:0.4.6
-onyxdotapp/python-executor-sci:0.4.5
+#onyxdotapp/python-executor-sci:0.4.5
 
 #opensearchproject/opensearch:3.6.0
 #redis:7.4-alpine
