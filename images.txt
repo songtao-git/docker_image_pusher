@@ -38,7 +38,7 @@
 #onyxdotapp/onyx-model-server:v4.6.4
 #onyxdotapp/code-interpreter:0.4.6
 #onyxdotapp/python-executor-sci:0.4.5
-onyxdotapp/sandbox:v4.6.4
+#onyxdotapp/sandbox:v4.6.4
 
 #opensearchproject/opensearch:3.6.0
 #redis:7.4-alpine
@@ -48,7 +48,7 @@ onyxdotapp/sandbox:v4.6.4
 #nginx:1.25.5-alpine
 #minio/minio:RELEASE.2025-07-23T15-54-02Z-cpuv1
 #lmsysorg/sglang:v0.5.18
-#lmsysorg/sglang:glm-5.3-flash
-#lmsysorg/sglang:qwen38flashnext
+lmsysorg/sglang:qwen38flashnext
+lmsysorg/sglang:glm-5.3-flash
 #vllm/vllm-openai:glm52
 #onyxdotapp/onyx-model-server:v4.6.1
