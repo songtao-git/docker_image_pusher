@@ -44,11 +44,11 @@
 #redis:7.4-alpine
 #postgres:16.14
 #redis/redis-stack-server:7.4.0-v8
-#sonatype/nexus3:3.95.2
+sonatype/nexus3:3.95.3
 #nginx:1.25.5-alpine
 #minio/minio:RELEASE.2025-07-23T15-54-02Z-cpuv1
 #lmsysorg/sglang:v0.5.18
-lmsysorg/sglang:qwen38flashnext
-lmsysorg/sglang:glm-5.3-flash
+#lmsysorg/sglang:qwen38flashnext
+#lmsysorg/sglang:glm-5.3-flash
 #vllm/vllm-openai:glm52
 #onyxdotapp/onyx-model-server:v4.6.1
