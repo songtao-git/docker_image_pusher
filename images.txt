@@ -54,4 +54,5 @@
 #onyxdotapp/onyx-model-server:v4.6.1
 #localinferencelab/vllm:jovian-judgement-community-20260914-r38
 #localinferencelab/vllm:jovian-judgement-community-20260911-r35
+
 ghcr.io/local-inference-lab/vllm:karmic-kraken-beta
